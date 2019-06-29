@@ -6,3 +6,7 @@
 征提取，再利用 SVM 做分类识别缺陷类型。
 
 运行平台：NVIDIA公司——Jetson-Tx2
+
+编程语言：C++
+
+运行环境：opencv3.3 cuda9.0 zed-sdk2.7
